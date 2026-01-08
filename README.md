@@ -12,15 +12,15 @@ protect modern data center environments.
 - IoT Subsystem: Environmental monitoring, access control
 - Network Subsystem: Network topology, firewall, routing
 - 
-  ## Team Meambers:
--Rana Alaa Shata 
--Shahd Basem Radwan
--Akmel Fathy Kamel
--Fares Hany Elkholany
--Mohamed Ahmed Al-anous
--Lenda Alaa Deif
--Haneen Ahmed Alboghadady
--Sohila Mohamed Abdelbaky
+  ## Team Members:
+- Rana Alaa Shata 
+- Shahd Basem Radwan
+- Akmel Fathy Kamel
+- Fares Hany Elkholany
+- Mohamed Ahmed Al-anous
+- Lenda Alaa Deif
+- Haneen Ahmed Alboghadady
+- Sohila Mohamed Abdelbaky
 
 ## Repository Structure
 - /AI : AI models, datasets description, and architecture
